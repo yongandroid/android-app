@@ -2,6 +2,7 @@ package com.apkbus.app.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.apkbus.app.R;
 
 
 public class MainActivity extends Activity {
